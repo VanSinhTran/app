@@ -1,1 +1,1 @@
-def Test chút thôi
+mnl Test chút thôi
